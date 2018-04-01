@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218866985263",
+    "firebase_url": "https://luthfi-1202150020-modul6.firebaseio.com",
+    "project_id": "luthfi-1202150020-modul6",
+    "storage_bucket": "luthfi-1202150020-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218866985263:android:1c867865621dcd98",
+        "android_client_info": {
+          "package_name": "com.example.masterluthfi.luthfi_1202150020_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218866985263-b4umnordjq30ip3c8il12hjih0l75lt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.masterluthfi.luthfi_1202150020_modul6",
+            "certificate_hash": "af0d9d6991e4e53ea950aec166652d8d00af5a94"
+          }
+        },
+        {
+          "client_id": "218866985263-cblo0cbr8qp3smuqj1ldgqmf576k1sf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFoUxiIM9btHh7qr4G_iOF9Skr7C4Zrxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218866985263-cblo0cbr8qp3smuqj1ldgqmf576k1sf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
